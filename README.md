@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a website to show my own photographys and blogs**
 - 🌱 I’m currently learning **SpringBoot/Redis/SpringScurity/Vue/MQs**
+- 🚗 Pursuing master's degree on Telecommunication Engineering
 - 💬 Ask me about **Java,Vue,Matlab and Git**
 - 📫 How to reach me: yaxing_guo@outlook.com
 
