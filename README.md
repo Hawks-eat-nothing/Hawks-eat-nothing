@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java,Vue,Matlab and Git**
 - 📫 How to reach me: yaxing_guo@outlook.com
 ---
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hawks-eat-nothing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
