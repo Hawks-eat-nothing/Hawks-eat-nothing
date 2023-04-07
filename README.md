@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java,Vue,Matlab and Git**
 - 📫 How to reach me: yaxing_guo@outlook.com
 
+<div style="flex">
+
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hawks-eat-nothing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+</div>
 
 
-![Metrics](/github-metrics.svg)
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+
+
+
