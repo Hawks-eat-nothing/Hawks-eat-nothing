@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yaxing_guo@outlook.com
 
 <div style="flex">
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Hawks-eat-nothing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=Hawks-eat-nothing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </div>
 
 
